@@ -1,0 +1,12 @@
+.checked-icon{
+    margin-top: 10vh;
+    margin-bottom: 30px;
+    font-size: 100px;
+    color: rgb(28, 165, 28) !important;
+}
+.close-btn{
+    background-color: rgb(137, 76, 206) !important;
+    width: 180px;
+    border: none;
+    
+}

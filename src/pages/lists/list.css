@@ -1,0 +1,29 @@
+.table-div{
+    overflow-x: scroll;
+}
+.table{
+    width: 2100px !important;
+}
+.ant-spin-container th{
+    background-color: rgb(242, 220, 255) !important;
+}
+
+.table-div::-webkit-scrollbar{
+    width: 12px;
+    height: 12px;
+}
+
+.table-div::-webkit-scrollbar-track{
+    background-color: none;
+}
+.table-div::-webkit-scrollbar-thumb{
+    background-color: lightgray;
+    border-radius: 6px;
+}
+.del-btn{
+    background-color: rgb(251, 84, 118) !important;
+    color: #fff !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}

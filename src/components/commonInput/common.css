@@ -1,0 +1,7 @@
+.checks{
+    scale: 1.5;
+}
+.checks:checked{
+    background-color: purple !important;
+    border: none;
+}

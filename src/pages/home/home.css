@@ -1,0 +1,15 @@
+.left-div{
+    padding-right: 50px !important;
+}
+.right-div{
+    padding-left: 50px !important;
+}
+.white{
+    background-color: #fff;
+}
+.minHeigh{
+    min-height: 100vh;
+}
+.phone-input{
+    margin-left: 70px;
+}

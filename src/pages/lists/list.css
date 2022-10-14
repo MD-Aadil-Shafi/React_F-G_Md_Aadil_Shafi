@@ -27,3 +27,9 @@
 .cursor-pointer{
     cursor: pointer;
 }
+
+@media (max-width:600px) {
+    .list-header{
+        flex-direction: column;
+    }
+}

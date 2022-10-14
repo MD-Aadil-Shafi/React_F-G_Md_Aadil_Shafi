@@ -160,7 +160,7 @@ const List = ({data, refresher}) => {
     animate={{opacity: 1}}
     exit={{opacity: 0}}
     className='container-fluid m-0 px-4 py-5 bg-light minHeigh'>
-        <div className='d-flex justify-content-between'>
+        <div className='d-flex justify-content-between list-header'>
             <div>
                 <h5>Aromatic bar</h5>
                 <p>{searchTerm.length ? serachedData.length : tableData.length} records found. {searchTerm.length ? '1' : '0'} filters applied</p>

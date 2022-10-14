@@ -13,3 +13,12 @@
 .phone-input{
     margin-left: 70px;
 }
+
+@media (max-width:767px) {
+    .left-div{
+        padding-right: 0px !important;
+    }
+    .right-div{
+        padding-left: 0px !important;
+    } 
+}
